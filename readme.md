@@ -9,6 +9,6 @@
 | --- | --- |
 | Vinicius Pascoal | 01, 03, 06 |
 | Tayssa Santos | - |
-| Marcelo Gomes | 12 |
+| Marcelo Gomes | 09, 12 |
 | Mariana Penalva | - |
 | Willijefferson Alves | - |
