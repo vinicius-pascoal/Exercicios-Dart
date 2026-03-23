@@ -7,7 +7,7 @@
 ## Alunos e Questões
 | Aluno | Questões |
 | --- | --- |
-| Vinicius Pascoal | 01, 03, 06, 13 |
+| Vinicius Pascoal | 01, 03, 06, 13, 14 |
 | Tayssa Santos | - |
 | Marcelo Gomes | 09, 12 |
 | Mariana Penalva | - |
