@@ -1,1 +1,20 @@
-// TODO
+// Vinicius Pascoal
+
+import 'dart:io';
+
+void main() {
+  print('Digite os elementos do primeiro vetor (separados por espaço):');
+  List<int> vetor1 = stdin.readLineSync()!.split(' ').map(int.parse).toList();
+
+  print('Digite os elementos do segundo vetor (separados por espaço):');
+  List<int> vetor2 = stdin.readLineSync()!.split(' ').map(int.parse).toList();
+
+  List<int> vetor3 = []
+    ..addAll(vetor1)
+    ..addAll(vetor2);
+  vetor3.sort();
+  int somaTotal = vetor3.reduce((a, b) => a + b);
+
+  print('Vetor 3: $vetor3');
+  print('Soma de todos os elementos do vetor 3: $somaTotal');
+}
