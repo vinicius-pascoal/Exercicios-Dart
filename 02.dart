@@ -13,8 +13,9 @@ void main(List<String> args) {
 
   for (int i = 0; i < termos; i++) {
     double termo = (pow(N, fatorial(E)) / D);
-
-    if (i % 2 == 0) {
+    if (i < 3) {
+      S += termo;
+    } else if (i % 2 == 0) {
       S += termo;
     } else {
       S -= termo;
