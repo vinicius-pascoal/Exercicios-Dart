@@ -8,7 +8,7 @@
 | Aluno | Questões |
 | --- | --- |
 | Vinicius Pascoal | 01, 03, 06, 13, 14, 15, 16, 17, 18, 19 |
-| Tayssa Santos | - |
+| Tayssa Santos | 02, |
 | Marcelo Gomes | 09, 12 |
 | Mariana Penalva | - |
 | Willijefferson Alves | - |
