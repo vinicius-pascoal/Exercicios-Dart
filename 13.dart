@@ -1,7 +1,5 @@
 // Vinicius Pascoal
 
-import 'dart:io';
-
 void main() {
   List<int> numeros = [1, 2, 2, 3, 4, 1, 4, 4, 5];
   Map<int, int> contagem = {};
