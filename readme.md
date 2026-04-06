@@ -10,5 +10,5 @@
 | Vinicius Pascoal | 01, 03, 06, 13, 14, 15, 16, 17, 18, 19 |
 | Tayssa Santos | 02, 04, 05, 10|
 | Marcelo Gomes | 09, 12 |
-| Mariana Penalva | 07 |
+| Mariana Penalva | 07, 08 |
 | Willijefferson Alves | - |
